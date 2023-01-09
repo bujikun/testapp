@@ -1,3 +1,0 @@
-Hi
-Welcome to java programming
-We are learning gits
